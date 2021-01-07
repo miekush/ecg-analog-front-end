@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECG_Pad
+D Finger Pad for ECG Amplifier Input
+$ENDCMP
+#
+$CMP STX-3000
+D Phone Connectors 3.5mm PCB STEREO BLK PLASTIC NON THREADED
+$ENDCMP
+#
+#End Doc Library
