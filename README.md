@@ -1,7 +1,7 @@
 # ECG_Analog_Front_End
 Simple Analog Front End for Electrocardiography using INA126 and OPA2337
 
-![PCB ISO](Images/ECG_iso.PNG)
+![PCB ISO](Images/ecg_pcb.jpg)
 
 # License
 
